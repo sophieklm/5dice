@@ -4,6 +4,8 @@ Yahtzee & Liars Dice app.
 
 Roll all 5 dice or roll each dice individually.
 
+![Screenshot](images/screenshot.png)
+
 ---
 
 - Stateful widgets used to update the user interface.
